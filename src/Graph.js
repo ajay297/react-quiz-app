@@ -13,32 +13,32 @@ export default function App({ categoryScore }) {
 
     const data = [
         {
-            subject: "Technical Understanding",
+            subject: "HTML",
             A: categoryScore.TU,
             fullMark: 4
         },
         {
-            subject: "Communication",
+            subject: "CSS",
             A: categoryScore.C,
             fullMark: 4
         },
         {
-            subject: "Product Sense",
+            subject: "Javascript",
             A: categoryScore.PSE,
             fullMark: 4
         },
         {
-            subject: "Problem Solving",
+            subject: "Nodejs",
             A: categoryScore.PS,
             fullMark: 4
         },
         {
-            subject: "Result Oriented",
+            subject: "MongoDB",
             A: categoryScore.RO,
             fullMark: 4
         },
         {
-            subject: "Data-Driven",
+            subject: "Reactjs",
             A: categoryScore.DDE,
             fullMark: 150
         }
